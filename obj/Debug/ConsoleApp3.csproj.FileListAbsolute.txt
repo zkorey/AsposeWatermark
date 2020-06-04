@@ -1,0 +1,11 @@
+c:\users\zkorey\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+c:\users\zkorey\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+c:\users\zkorey\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Aspose.Words.dll
+c:\users\zkorey\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+c:\users\zkorey\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+c:\users\zkorey\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
+c:\users\zkorey\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+c:\users\zkorey\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+c:\users\zkorey\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+c:\users\zkorey\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\test.docx
+c:\users\zkorey\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\123.jpg

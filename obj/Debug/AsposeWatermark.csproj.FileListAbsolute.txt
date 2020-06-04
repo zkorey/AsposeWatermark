@@ -1,0 +1,11 @@
+C:\Users\zkorey\source\repos\水印功能测试\AsposeWatermark\bin\Debug\123.jpg
+C:\Users\zkorey\source\repos\水印功能测试\AsposeWatermark\bin\Debug\test.docx
+C:\Users\zkorey\source\repos\水印功能测试\AsposeWatermark\bin\Debug\AsposeWatermark.exe.config
+C:\Users\zkorey\source\repos\水印功能测试\AsposeWatermark\bin\Debug\AsposeWatermark.exe
+C:\Users\zkorey\source\repos\水印功能测试\AsposeWatermark\bin\Debug\AsposeWatermark.pdb
+C:\Users\zkorey\source\repos\水印功能测试\AsposeWatermark\bin\Debug\Aspose.Words.dll
+C:\Users\zkorey\source\repos\水印功能测试\AsposeWatermark\obj\Debug\AsposeWatermark.csprojAssemblyReference.cache
+C:\Users\zkorey\source\repos\水印功能测试\AsposeWatermark\obj\Debug\AsposeWatermark.csproj.CoreCompileInputs.cache
+C:\Users\zkorey\source\repos\水印功能测试\AsposeWatermark\obj\Debug\AsposeWatermark.csproj.CopyComplete
+C:\Users\zkorey\source\repos\水印功能测试\AsposeWatermark\obj\Debug\AsposeWatermark.exe
+C:\Users\zkorey\source\repos\水印功能测试\AsposeWatermark\obj\Debug\AsposeWatermark.pdb
